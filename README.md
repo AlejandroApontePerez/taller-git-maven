@@ -7,3 +7,5 @@
 ## Compilación y Ejecución
 - Compilar: `mvn clean package`
 - Ejecutar: Ejecutar clase `Main.java` desde IntelliJ.
+ ## Aprendizajes
+ Taller git
