@@ -8,5 +8,6 @@ public class Main {
         System.out.print("Ingresa tu nombre: ");
         String nombre = scanner.nextLine();
         System.out.println("¡Hola, " + nombre + "! Bienvenido al taller de Git.");
+        System.out.println("¡Hasta luego, " + nombre + "!");
     }
 }
